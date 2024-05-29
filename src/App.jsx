@@ -1,6 +1,7 @@
 import Navbar from "./components/NavBar.jsx"
 import Hero from "./components/Hero.jsx"
 import About from "./components/About.jsx"
+import Technologies from "./components/Technologies.jsx"
 
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <About/>
+      <Technologies/>
       </div>
     </div>
   )
